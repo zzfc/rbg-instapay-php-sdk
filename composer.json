@@ -1,10 +1,10 @@
 {
-    "name": "rbg/instapay-php-sdk",
+    "name": "zzfcrgb/instapay-php-sdk",
     "description": "PHP SDK for RBG Instapay ISO20022 Service Endpoints",
     "type": "library",
     "keywords": [
         "instapay",
-        "rbg",
+        "zzfcrgb",
         "iso20022",
         "payment",
         "sdk",
@@ -30,8 +30,8 @@
         }
     },
     "support": {
-        "issues": "https://github.com/your-username/rbg-instapay-php-sdk/issues",
-        "source": "https://github.com/your-username/rbg-instapay-php-sdk"
+        "issues": "https://github.com/zzfc/rbg-instapay-php-sdk.git/issues",
+        "source": "https://github.com/zzfc/rbg-instapay-php-sdk.git"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
