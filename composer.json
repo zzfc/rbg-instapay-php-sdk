@@ -1,0 +1,38 @@
+{
+    "name": "rbg/instapay-php-sdk",
+    "description": "PHP SDK for RBG Instapay ISO20022 Service Endpoints",
+    "type": "library",
+    "keywords": [
+        "instapay",
+        "rbg",
+        "iso20022",
+        "payment",
+        "sdk",
+        "php",
+        "p2p",
+        "qr-code",
+        "philippines"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your.email@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RbgInstapay\\": ""
+        }
+    },
+    "support": {
+        "issues": "https://github.com/your-username/rbg-instapay-php-sdk/issues",
+        "source": "https://github.com/your-username/rbg-instapay-php-sdk"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
