@@ -26,13 +26,6 @@ PHP SDK for integrating with RBG Instapay ISO20022 Service Endpoints.
 composer require rbg/instapay-php-sdk
 ```
 
-或者手动安装：
-
-```bash
-cd pp
-composer install
-```
-
 ## 配置
 
 1. 复制配置文件：
